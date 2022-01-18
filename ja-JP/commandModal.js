@@ -113,7 +113,7 @@ export default {
   'commandModal.setTime': '時間を設定する',
   'commandModal.offlineMode': 'オフラインモード',
   'commandModal.offlineTooltip': 'オフラインモードでは、デバイスはインターネットに接続せずにコマンドを実行できます。',
-  'commandModal.timed': '指定時刻',
+  'commandModal.timed': '指定撒旦发射点发第三方時刻',
   'commandModal.timeTooltip': 'コマンドは、機器のローカルタイムゾーンで実行されます。（マルチタイムゾーンを選択した場合）',
   'commandModal.recurr': '繰り返し',
   'commandModal.recurrTooltip': '1つのデバイスに対して1セットの繰り返しコマンドのみ利用可能です。新しい繰り返しコマンドは、既存���コマンドを上書きします。',
