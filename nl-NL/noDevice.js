@@ -1,0 +1,21 @@
+export default {
+    'noDevice.deviceManagement': 'Apparaatbeheer',
+    'noDevice.enrollDevice': 'Apparaatverbinding',
+    'noDevice.deviceEnrollment': 'Inschrijving van apparaten',
+    'noDevice.bindThrough': 'Verbinden via de {type} app op het apparaat.',
+    'noDevice.adminAccIs': 'Admin-account is',
+    'noDevice.schoolCodeIs': 'De Organisatiecode is ',
+    'noDevice.seeMore': 'U kunt meer informatie bekijken in ',
+
+    'noDevice.option1': 'Optie 1',
+    'noDevice.enterConnInfo': 'Voer verbindingsgegevens in',
+    'noDevice.option2': 'Optie 2',
+    'noDevice.enrollmentUsingUSB': 'Inschrijving via USB',
+    'noDevice.download': 'Downloaden',
+    'noDevice.inUDisk': `in U disk, niet wijzigen.`,
+    'noDevice.makeSureTheApp': 'Zorg ervoor dat de applicatie is geïnstalleerd.',
+    'noDevice.insertUDisk': 'Plaats de U-schijf in het apparaat.',
+    'noDevice.clickBind': 'Klik op bind de informatie wordt automatisch ingevuld.',
+    'noDevice.allSchoolHint': 'Selecteer de organisatie om meer informatie te zien in Inschrijven',
+    'noDevice.netErr': 'Netwerkfout. Download opnieuw',
+};

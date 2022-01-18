@@ -1,0 +1,21 @@
+export default {
+    'dashboard.title': 'Dashboard',
+    'dashboard.activeTrend': 'Onlinetrend',
+    'dashboard.statisticsTheDaily':
+        'Statistieken van de dagelijkse online status van alle apparaten',
+    'dashboard.inactiveDevice': 'Offline apparaat',
+    'dashboard.devices': 'apparaten',
+    'dashboard.deviceOffline': 'Apparaten offline voor meer dan 7 dagen',
+    'dashboard.deviceName': 'Toestelnaam',
+    'dashboard.Tags': 'Tags',
+    'dashboard.lastOnlineTime': 'Laatste online tijd',
+    'dashboard.adminAccount': 'Beheerdersaccount',
+    'dashboard.organizationCode': 'Organisatiecode',
+    'dashboard.maxConnection': 'Max verbinding',
+    'dashboard.connectedNum': 'Ingeschreven apparaten',
+    'dashboard.onlineNum': 'Online apparaten',
+    'dashboatd.date': 'Datum',
+    'dashboatd.onlineNumber': 'Online nummer',
+    'dashboard.credits': 'Credits',
+    'dashboard.daysRemain': 'Resterende dagen',
+};

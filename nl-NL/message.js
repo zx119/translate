@@ -1,0 +1,16 @@
+export default {
+    'command.message.success': 'Opdracht verzonden',
+    'command.message.error': 'Verzenden mislukt',
+    'command.message.touchon': 'Zet aanraking aan',
+    'command.message.touchoff': 'Schakel aanraking uit',
+    'command.message.info': 'info',
+    'command.message.warning': 'waarschuwing',
+    'command.message.warn': 'waarschuw',
+    'command.message.loading': 'Laden',
+    'common.message.success': 'succes',
+    'common.message.error': 'fout',
+    'common.message.info': 'info',
+    'common.message.warning': 'waarschuwing',
+    'common.message.warn': 'waarschuw',
+    'common.message.loading': 'Laden',
+};

@@ -1,0 +1,16 @@
+export default {
+    'command.message.success': 'Befehl gesendet',
+    'command.message.error': 'Senden fehlgeschlagen',
+    'command.message.touchon': 'Touch einschalten',
+    'command.message.touchoff': 'Touch ausschalten',
+    'command.message.info': 'Info',
+    'command.message.warning': 'Warnung',
+    'command.message.warn': 'warnen',
+    'command.message.loading': 'Laden',
+    'common.message.success': 'Erfolg',
+    'common.message.error': 'Fehler',
+    'common.message.info': 'Info',
+    'common.message.warning': 'Warnung',
+    'common.message.warn': 'warnen',
+    'common.message.loading': 'Laden',
+};

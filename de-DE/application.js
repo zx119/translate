@@ -1,0 +1,47 @@
+export default {
+    'application.uploading': 'Hochladen',
+    'application.uploadingTip':
+        'Anwendung lädt hoch, beim Beenden wird die Anwendung nicht gespeichert.',
+    'application.exit': 'Verlassen',
+    'application.cancel': 'Abbrechen',
+    'application.pleaseWait': 'Bitte warten Sie, bis der APK-Upload abgeschlossen ist.',
+    'application.fileNameTooLong': 'Der Dateiname ist zu lang',
+    'application.support100Mb': 'Unterstützt max. 100 MB',
+    'application.alreadyHasNewer': 'Es ist bereits eine neuere Version der App vorhanden.',
+    'application.internetFailed': 'Internet fehlgeschlagen.',
+    'application.uploadSuc': 'Erfolgreich hochgeladen.',
+    'application.deleteApk': 'APK löschen',
+    'application.deleteApkTip':
+        'Nach dem Löschen wird {val1} aus der Anwendungs-Verwaltungsliste entfernt.',
+    'application.delete': 'Löschen',
+    'application.deleteSuc': 'Die Anwendung wurde erfolgreich gelöscht.',
+    'application.pleaseSelectDevice': 'Bitte wählen Sie ein Gerät aus.',
+    'application.uploadApk': 'APK hochladen',
+    'application.installApp': 'Anwendung installieren',
+    'application.install': 'Installieren',
+    'application.uninstallFromDevice': 'Vom Gerät deinstallieren',
+    'application.uninstall': 'Entladung',
+    'application.uninstallTip': 'Nach der Deinstallation wird diese App von den Geräten gelöscht.',
+    'application.disableInDevice': 'Auf dem Gerät deaktivieren',
+    'application.disable': 'Verbieten',
+    'application.disableTip':
+        'Nach dem Deaktivieren ist die Anwendung auf Geräten, auf denen sie bereits installiert ist, nicht verfügbar.',
+    'application.enableInDevice': 'Auf dem Gerät aktivieren',
+    'application.enable': 'Aktivieren',
+    'application.enableTip':
+        'Nach der Aktivierung ist die App auf Geräten verfügbar, auf denen sie bereits installiert ist.',
+    'application.unavailable': 'Diese App ist während der Aktualisierung nicht verfügbar.',
+    'application.multiTimezoneSelected':
+        'Die Befehle werden nach der lokalen Zeitzone des Geräts ausgeführt. (wenn mehrere Zeitzonen ausgewählt sind)',
+    'application.selected': 'Ausgewählt',
+    'application.applicationName': 'App-Name',
+    'application.appVersion': 'Version',
+    'application.appSize': 'Größe',
+    'application.searchTip': 'Suche {val1}',
+    'application.reset': 'Zurücksetzen',
+    'application.search': 'Suche',
+    'application.pleaseUpload': 'Bitte ein APK hochladen',
+    'application.file.location': 'Lage Datei',
+    'application.file.tooltip':
+        'Dieses Paket unterstützt keine stille Installation. Bitte installieren Sie es manuell.',
+};

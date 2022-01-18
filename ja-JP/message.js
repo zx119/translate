@@ -1,0 +1,16 @@
+export default {
+    'command.message.success': 'コマンドが送信されました',
+    'command.message.error': '送信に失敗しました',
+    'command.message.touchon': 'タッチをオンにする',
+    'command.message.touchoff': 'タッチをオフにする',
+    'command.message.info': '情報',
+    'command.message.warning': '警告',
+    'command.message.warn': '警告',
+    'command.message.loading': '読み込み中',
+    'common.message.success': '成功',
+    'common.message.error': 'エラー',
+    'common.message.info': '情報',
+    'common.message.warning': '警告',
+    'common.message.warn': '警告',
+    'common.message.loading': '読み込み中',
+};

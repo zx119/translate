@@ -1,0 +1,58 @@
+export default {
+    'login.error.emailEmpty': 'Please enter your email address.',
+    'login.error.emailInvalid': 'Sorry,this email is invalid.',
+    'login.error.emailLetterInvalid':
+      'Sorry, Only letters(a-z),numbers(0-9),and symbols(@._) are allowed.',
+    'login.error.emailNotFound': 'No account found with this email.',
+    'login.error.createWidthAccount': 'Create with this account？',
+    'login.error.pwdEmpty': 'Please enter a password.',
+    'login.error.pwdInvalid': 'Sorry, this password is incorrect.',
+    'login.error.pwdEqualMail': "Sorry, passwords can't match your email address",
+    'login.error.pwdLength': 'Passwords must have 8-16 characters.',
+    'login.error.pwdFormat':
+      'Password must have two categories from below: numbers/letters/special character',
+    'login.error.specialSymbol':
+      'Sorry, Only letters(a-z),number(0-9),and special character(~!@#$%^&*()+-=,./;|<>?) are allowed',
+    'login.error.pwdNotEqual': "Those passwords didn't match",
+    'login.error.notLogin': 'You are not logged in, please log in.',
+    'login.error.verify': 'Please verify',
+    'login.label.forgotPwd': 'Forgot password?',
+    'login.label.email': 'Email',
+    'login.label.notAccount': 'No account?',
+    'login.label.createAccount': 'Create one',
+    'login.label.pwd': 'Password',
+    'login.title.account': 'Account',
+    'login.title.login': 'Log in',
+    'login.title.tips': 'Tips',
+    'login.btn.login': 'Log in',
+    'login.btn.confirm': 'Confirm',
+    'login.btn.ok': 'OK',
+    'login.placeHolder.email': 'Enter your email address',
+    'login.placeHolder.pwd': 'Enter your password',
+    'login.logout': 'Log out',
+    'login.error.noAuth': 'Account is not authorized.',
+    'login.forgetPwd': 'Forgot password',
+    'login.forgetTip':
+      'Enter your email address and we will send you a verify code link to reset your password.',
+    'login.verifyAgain': 'Error occurred. Please verify again.',
+    'login.next': 'Next',
+    'login.backToLogin': 'Back to login',
+    'login.loginFailed': 'login failed',
+    'login.accountExpired':
+      'Account has expired, please contact the parent account',
+    'login.accountNoAuth': 'Account is not authorized',
+    'login.lockChances': '{val1} chances left',
+    'login.resetSuc': 'Reset success! Login…',
+    'login.reset.characters816': '8-16 characters',
+    'login.reset.charactersCategories':
+      'Two categories from below: numbers/letters/special character',
+    'login.reset.canNotMatch': "Can't match your email address",
+    'login.reset.curPwd': 'Current password',
+    'login.reset.newPwd': 'New password',
+    'login.reset.confirmPwd': 'Confirm password',
+    'login.modifyPwd': 'Modify Password',
+    'login.title.2FA': '2-Factor Authentication',
+    'login.2FA.input.tip':"Input verification code from the third-party apps",
+    "logout.text.tip":"You will log out in"
+  };
+  

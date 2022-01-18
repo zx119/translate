@@ -1,0 +1,37 @@
+export default {
+    'remote.detail.control': 'Bildschirmsteuerung',
+    'remote.detail.realtime': 'Echtzeit-Anzeige',
+    'remote.full.turnon': 'Bildschirmsteuerung eingeschaltet',
+    'remote.full.turnoff': 'Bildschirmsteuerung ausgeschaltet',
+    'remote.full.control': 'Bildschirmsteuerung',
+    'remote.full.exitcontrol': 'Bildschirmsteuerung verlassen',
+    'remote.remote.control': 'Fernsteuerung: ',
+    'remote.preview.off': 'Das Gerät ist ausgeschaltet',
+    'remote.preview.getscreen': 'Bildschirm wird geladen...',
+    'remote.video.offline':
+        'Dieses Gerät ist offline, überprüfen Sie den Geräte- oder den Netzwerk-Status',
+    'remote.video.error':
+        'Dieses Gerät ist durch einen anderen Benutzer verbunden. Bitte versuchen Sie es später noch einmal',
+    'remote.video.failedtitle': 'Dieses Gerät ist offline.',
+    'remote.video.try': 'versuchen',
+    'remote.video.checkpower':
+        '·Prüfen Sie die Stromversorgung und den Netzwerk-Status des Gerätes',
+    'remote.video.buttonreconnect': ' Klicken Sie auf den Button unten, um neu zu verbinden',
+    'remote.video.button': 'Wiederverbinden',
+    'remote.video.loading': 'Laden',
+    'remote.command.tooltip': 'Jetzt ausgeführt',
+    'remote.command.poweron': 'Einschalten',
+    'remote.command.poweroff': 'Abschalten',
+    'remote.command.reboot': 'Neustart',
+    'remote.command.lock': 'Bildschirmsperre',
+    'remote.command.unlock': 'Bildschirm entsperren',
+    'remote.pop.power': 'Geräte-Power',
+    'remote.pop.lock': 'Bildschirmsperre',
+    'remote.reject.title': 'Gerätenutzer abgelehnt',
+    'remote.reject.conent':
+        'Für die Fernsteuerung ist die Erlaubnis des Benutzers erforderlich, bitte wenden Sie sich an den Benutzer, bevor Sie die Steuerung benutzen.',
+    'remote.reject.okexit': 'Verlassen',
+    'remote.reject.ok': 'OK',
+    'remote.device.touch': 'Gerätetouch',
+    'remote.tooltip.waiting': 'Warten auf Berechtigung',
+};

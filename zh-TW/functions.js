@@ -1,0 +1,18 @@
+export default {
+    'functions.softwareUpdate': '軟體更新',
+    'functions.softwareUpdate.update': '更新',
+    'functions.softwareUpdate.updateTip': '安裝完成後，該應用將重新打開並自動連接。',
+    'functions.softwareUpdate.execWithPowerOn': '執行更新時，讓設備先開機。',
+    'functions.softwareUpdate.latestVersion': '最新版本：',
+    'functions.softwareUpdate.releaseDate': '發布日期：',
+    'functions.softwareUpdate.updateAll': '全部更新',
+    'functions.softwareUpdate.updateAllX': '全部更新 {val1}',
+    'functions.softwareUpdate.curVersion': '當前版本',
+    'functions.softwareUpdate.upToDate': '最新',
+    'functions.softwareUpdate.deviceUpdateInfo1': '*{val1}個設備總數',
+    'functions.softwareUpdate.deviceUpdateInfo2': ' 設備需要更新到 {val1}',
+    'functions.softwareUpdate.inProgress': '更新中',
+    'functions.softwareUpdate.wait': '等待',
+    'functions.softwareUpdate.updating': '更新中',
+    'functions.softwareUpdate.initialVersion': '初始版本',
+};

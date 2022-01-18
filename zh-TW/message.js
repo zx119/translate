@@ -1,0 +1,16 @@
+export default {
+    'command.message.success': '命令已發送',
+    'command.message.error': '發送失敗',
+    'command.message.touchon': '開啟觸控',
+    'command.message.touchoff': '關閉觸控',
+    'command.message.info': '信息',
+    'command.message.warning': '警告',
+    'command.message.warn': '警告',
+    'command.message.loading': '加載中',
+    'common.message.success': '成功',
+    'common.message.error': '錯誤',
+    'common.message.info': '信息',
+    'common.message.warning': '警告',
+    'common.message.warn': '警告',
+    'common.message.loading': '加載中',
+};
