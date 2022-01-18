@@ -47,6 +47,7 @@ export default {
         'common.deviceControl': 'デバイス制御',
         'common.message': 'メッセージ',
         'common.deviceSetting': 'デバイスの設定',
-        'common.allGroup': 'すべてのグループ'
+        'common.allGroup': 'すべてのグループ'，
+        'common.xxxx': 'すべての'
       
 };
