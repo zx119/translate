@@ -10,7 +10,7 @@ export default {
     'account.pswdManagement': 'パスワード管理',
     'account.password': 'パスワード',
     'account.remoteLock': '{type}ロック',
-    'account.password.remoteLock.desc':'パスワードを入力して、デバイスの登録を解除します。',
+    'account.password.remoteLock.desc':'xxxxx',
     'account.remoteLockDesc':
         '設定で{type}をロックします。パスワードを入力してロックを解除します。',
     'account.deviceSettingLock': 'デバイス設定ロック',
@@ -31,7 +31,7 @@ export default {
     'account.connectNum': '接続デバイス台数',
     'account.delete': '削除',
     'account.deleteServer': 'サーバーの削除',
-    'account.delServerTip': '{unitName}から{serverName}を削除しますか？',
+    'account.delServerTip': 'xxxx',
     'account.delServerSuc': 'サーバー{serverName}が{unitName}から削除されました。',
     'account.serverOff': 'オフ',
     'account.serverOn': 'オン',
